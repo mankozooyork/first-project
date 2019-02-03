@@ -29,7 +29,7 @@
   
 ## Procedure
   1. Run feature.py  
-    this create ORB/AKAZE feature into images  
+    this create ORB/AKAZE feature into images from original_trainingdata  
     argument : training / test
   2. Run datatxt.py  
     this will move images with feature into training/test directory from original_trainingdata directory  
@@ -39,6 +39,6 @@
     this will create CNN model using training/test data  
 
 ## Notice
-  main.py and model.py are almost refered/copied from those websites:  
+  main.py and model.py are referred/copied from those websites:  
   https://qiita.com/AkiyoshiOkano/items/72f3e4ba9caf514460ee  
   https://qiita.com/neriai/items/bd7bc36ec42c8ef65b2e  
