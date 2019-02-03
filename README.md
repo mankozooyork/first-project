@@ -10,7 +10,7 @@
 ./tensorflow  
 |--/data  
 |--/original_trainingdata  
-|----/OK
+|----/OK  
 |----/OK_test  
 |----/NG  
 |----/NG_test   
