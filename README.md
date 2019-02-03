@@ -10,7 +10,7 @@
 ./tensorflow  
 |--/data  
 |--/original_trainingdata  
-|----/OK  
+|----/OK
 |----/OK_test  
 |----/NG  
 |----/NG_test   
@@ -27,6 +27,11 @@
 |--model.py  
 |--utils.py  
   
+*/original_trainingdata/OK includes 131 items IMG_6753.JPG - IMG_7243.JPG  
+*/original_trainingdata/OK_test includes 56 items IMG_7244.JPG - IMG_7299.JPG  
+*/original_trainingdata/NG includes 132 items IMG_6947.JPG - IMG_6774.JPG  
+*/original_trainingdata/NG_test includes 54 items IMG_6752.JPG - IMG_6998.JPG  
+
 ## Procedure
   1. Run feature.py  
     this create ORB/AKAZE feature into images from original_trainingdata  
