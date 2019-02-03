@@ -7,7 +7,7 @@
   OpenCV 3.4.2  
 
 ## Directory
-./tesndowflow  
+./tensorflow  
 |-  /data  
 |-  /original_trainingdata  
 |--    /OK  
@@ -37,3 +37,8 @@
     argument : training / test  
   3. Run main.py  
     this will create CNN model using training/test data  
+
+## Notice
+  main.py and model.py are almost refered/copied from those websites:  
+  https://qiita.com/AkiyoshiOkano/items/72f3e4ba9caf514460ee  
+  https://qiita.com/neriai/items/bd7bc36ec42c8ef65b2e  
