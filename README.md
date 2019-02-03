@@ -8,24 +8,24 @@
 
 ## Directory
 ./tensorflow  
-|-  /data  
-|-  /original_trainingdata  
-|--    /OK  
-|--    /OK_test  
-|--    /NG  
-|--    /NG_test   
-|-  /test  
-|--    /OK  
-|--    /NG  
-|-  /training  
-|--    /OK  
-|--    /NG  
-|-  datatxt_org.py  
-|-  datatxt.py  
-|-  feature.py  
-|-  main.py  
-|-  model.py  
-|-  utils.py  
+|--/data  
+|--/original_trainingdata  
+|----/OK  
+|----/OK_test  
+|----/NG  
+|----/NG_test   
+|--/test  
+|----/OK  
+|----/NG  
+|--/training  
+|----/OK  
+|----/NG  
+|--datatxt_org.py  
+|--datatxt.py  
+|--feature.py  
+|--main.py  
+|--model.py  
+|--utils.py  
   
 ## Procedure
   1. Run feature.py  
